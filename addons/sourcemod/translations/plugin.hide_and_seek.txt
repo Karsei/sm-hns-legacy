@@ -1,0 +1,331 @@
+"Phrases"
+{
+	///////////////////////////////
+	// Common
+	///////////////////////////////
+	
+	"only terrorists can use this"
+	{
+		"en"			"Only Terrorists can use this."
+	}
+	
+	"no use"
+	{
+		"en"			"You can't use this."
+	}
+	
+	"no use yet"
+	{
+		"en"			"You can't use this yet!"
+	}
+	
+	"no use player dead"
+	{
+		"en"			"You can't use this in dead!"
+	}
+	
+	///////////////////////////////
+	// Round
+	///////////////////////////////
+	
+	"start hide"
+	{
+		"#format"		"{1:d}"
+		"en"			"You have {1} seconds to hide. Find a place where you fit into the background!"
+	}
+	
+	"wait hide"
+	{
+		"#format"		"{1:d}"
+		"en"			"Give the terrorists {1} seconds to hide."
+	}
+	
+	"be careful hide"
+	{
+		"en"			"Now Seekers start moving! Be Careful!"
+	}
+	
+	"find hider"
+	{
+		"en"			"Go and Find Hiders!"
+	}
+	
+	"hiders get frags"
+	{
+		"#format"		"{1:d}"
+		"en"			"Hiders get {1} Frags!"
+	}
+	
+	"timeattack start"
+	{
+		"en"			" -*- Time Attack has been started. -*-\n -*- This toggles beacon on all alive hiders. -*-"
+	}
+	
+	///////////////////////////////
+	// Disguise
+	///////////////////////////////
+	
+	"select model title"
+	{
+		"en"			"Select Model To Disguise"
+	}
+	
+	"im this model"
+	{
+		"#format"		"{1:s}"
+		"en"			"Select Model: {1}"
+	}
+	
+	"can not change model"
+	{
+		"en"			"You can't change your model anymore in this round!"
+	}
+	
+	"did not select model yet"
+	{
+		"en"			"You didn't select the disguise model yet."
+	}
+	
+	"heightfix fixed"
+	{
+		"en"			"This model is bugged and uses a fixed height. You will be in fixed height if you're stay calm."
+	}
+	
+	"usemoney your money no"
+	{
+		"en"			"You don't have enough money to use this model."
+	}
+	
+	"usemoney accept"
+	{
+		"#format"		"{1:d}"
+		"en"			"${1} has been charged, You disguised this model."
+	}
+	
+	"time no choose random model"
+	{
+		"en"			"You didn't select the disguise model. This will start randomly auto choosing your disguise model..."
+	}
+	
+	"set parameter dqm plz"
+	{
+		"en"			"You have to put the parameters in double quotes. (ex: !hide \"Lamp post\")"
+	}
+	
+	"set parameter no id"
+	{
+		"en"			"There are not the corresponding model ID."
+	}
+	
+	"set parameter one more"
+	{
+		"en"			"More than one model matched the given sentense."
+	}
+	
+	"set parameter no model"
+	{
+		"en"			"There are not the corresponding model name."
+	}
+	
+	"no menu created"
+	{
+		"en"			"You can't use it, because no menu is created. Please contact the administrators."
+	}
+	
+	///////////////////////////////
+	// Perspective
+	///////////////////////////////
+	
+	"tp previous pers msg"
+	{
+		"en"			"Type the previous command in chat again if you want toggle firstperson view."
+	}
+	
+	///////////////////////////////
+	// Hint
+	///////////////////////////////
+	
+	"hint no allow"
+	{
+		"en"			"Hint is not allowed yet."
+	}
+	
+	"hint here"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} Hint!"
+	}
+	
+	"hint left"
+	{
+		"#format"		"{1:d}"
+		"en"			"You are allowed to hint {1} more times."
+	}
+	
+	"hint limit"
+	{
+		"#format"		"{1:d}"
+		"en"			"You already used your {1} hints this round."
+	}
+	
+	///////////////////////////////
+	// Freeze
+	///////////////////////////////
+	
+	"hider freezed"
+	{
+		"en"			"You're frozen in place. Type the previous command in chat if you want move again."
+	}
+	
+	"hider unfreezed"
+	{
+		"en"			"You're able to move again."
+	}
+	
+	///////////////////////////////
+	// Prop Cleaner
+	///////////////////////////////
+	
+	"clean a prop success"
+	{
+		"en"			"Removing that prop is Successful!"
+	}
+	
+	"clean a prop no that entity"
+	{
+		"en"			"That entity does not allow to be removed!"
+	}
+	
+	"clean a prop too far or no that entity"
+	{
+		"en"			"It's Too Far or That entity does not allow to be removed!"
+	}
+	
+	///////////////////////////////
+	// Hider Radar
+	///////////////////////////////
+	
+	"hider radar set"
+	{
+		"en"			"Radar has been used! 30 seconds will be allowed."
+	}
+	
+	"hider radar set end"
+	{
+		"en"			"Radar has been terminated."
+	}
+	
+	"hider radar no use"
+	{
+		"en"			"Radar is not allowed yet."
+	}
+	
+	"hider radar no use this round"
+	{
+		"en"			"You already used your radar this round!"
+	}
+	
+	"hider radar now using"
+	{
+		"en"			"You are already using Radar right now!"
+	}
+	
+	"hider radar you are selected"
+	{
+		"en"			"Oh, You're lucky! You can use Radar!"
+	}
+	
+	///////////////////////////////
+	// Team Ratio
+	///////////////////////////////
+	
+	"team ratio seeker full"
+	{
+		"en"			"Seeker Team is Full!"
+	}
+	
+	"team ratio no change due to ratio"
+	{
+		"en"			"You can't change another team due to the ratio!"
+	}
+	
+	///////////////////////////////
+	// Help Menu
+	///////////////////////////////
+	
+	"help menu title"
+	{
+		"en"			"-*- Hide and Seek Help -*-"
+	}
+	
+	"help menu simple instruction"
+	{
+		"en"			"Ts choose a model and hide, CTs search and kill them."
+	}
+	
+	"help menu available chat cmd"
+	{
+		"en"			"Available Chat Commands"
+	}
+	
+	"help menu cmd hide help"
+	{
+		"en"			"Displays this help menu. (Common)"
+	}
+	
+	"help menu cmd hide"
+	{
+		"en"			"Displays the model choise menu. (Hider)"
+	}
+	
+	"help menu cmd hint"
+	{
+		"en"			"Play a sound to give a hint. (Hider)"
+	}
+	
+	"help menu cmd freeze"
+	{
+		"en"			"Freezes in place. (Hider)"
+	}
+	
+	"help menu cmd tp"
+	{
+		"en"			"Toggles the thirdperson view. (Hider)"
+	}
+	
+	"help menu cmd whoami"
+	{
+		"en"			"Prints the current modelname in chat. (Hider)"
+	}
+	
+	"help menu howto t"
+	{
+		"en"			"Hider Help"
+	}
+	
+	"help menu howto t inst1"
+	{
+		"en"			"Hiders choose a model to disguise and should search a best place to hide."
+	}
+	
+	"help menu howto ct"
+	{
+		"en"			"Seeker Help"
+	}
+	
+	"help menu howto ct inst1"
+	{
+		"en"			"Seekers should find hiders who could be every models and kill them."
+	}
+	
+	
+	////////////////////////////
+	// ETC: Countdown
+	////////////////////////////
+	
+	"Game countdown"
+	{
+		"#format"		"{1:d}"
+		"en"			"{1}"
+	}
+}
