@@ -1,6 +1,6 @@
 # 숨바꼭질 (Hide and seek)
 
-2011년 selax 가 제작했던 [Hide and seek](https://forums.alliedmods.net/showthread.php?p=1158242) 모드를 이어 한국식으로 숨바꼭질을 진행할 수 있도록 다시 제작했던 모드
+2011년 selax 가 제작했던 [Hide and seek](https://forums.alliedmods.net/showthread.php?p=1158242) 모드를 이어 한국식으로 숨바꼭질을 진행할 수 있도록 대폭적으로 다시 제작했던 모드
 
 ## 주요 개선사항
 
